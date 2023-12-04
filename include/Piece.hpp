@@ -15,6 +15,7 @@ struct Piece
     static const unsigned short Knight = 4; 
     static const unsigned short Rook = 5; 
     static const unsigned short Pawn = 6;
+    static const unsigned short EnPassantTrace = 7;
 
     static const unsigned short White = 8;
     static const unsigned short Black = 16;
