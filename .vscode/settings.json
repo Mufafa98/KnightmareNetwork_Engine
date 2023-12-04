@@ -127,6 +127,7 @@
     "xutility": "cpp",
     "filesystem": "cpp",
     "list": "cpp",
-    "bitset": "cpp"
+    "bitset": "cpp",
+    "*.tcc": "cpp"
   }
 }
